@@ -5,3 +5,5 @@ knows how to enter "repos" directory thru terminal and clone it on git
 testing nga
 
 gago di ko ma update yung nasa git hahaha gagi 
+
+need to add . then commit with not recommended comment then followed by push, dun lang nag rereflect sa git
